@@ -9,8 +9,8 @@ This repository contains a distributed tracing example in LLM applications using
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/xuro-langchain/tracing-concepts
-cd tracing-concepts
+git clone https://github.com/catherine-langchain/Distributed-Tracing-Example
+cd Distributed-Tracing-Example
 ```
 
 2. Set up environment variables:
